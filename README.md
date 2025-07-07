@@ -44,6 +44,7 @@ Pandas 입문을 시작하고, 데이터 전처리를 익힌 주차.
 
 ## Week 2날짜 별 정리
 - [week2 요약](week2/week2_summary.md) - 2주차 요약
+- [EDA report](week2/day7/20250707day14.md)
 
 ## 📚 Dependencies
 - Python 3.10+
