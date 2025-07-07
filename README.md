@@ -32,9 +32,16 @@ Pandas 입문을 시작하고, 데이터 전처리를 익힌 주차.
 # 📅 Week 2
 ---
 ## Week 2 전체 요약
+실전 데이터 분석을 위한 EDA 학습 및 시각화
 
 ##  사용한 주요 문법 & 함수
-  
+- `.str.split`, `.str.extract`, `.contains()` 등 문자열 처리
+- `pd.to_datetime()`, `.dt.day_name()`, `.dt.weekday` 등 날짜 데이터 처리
+- `MinMaxScaler`, `StandardScaler`로 정규화
+- `groupby()` + `.mean()`, `.std()`, `.agg()`
+- `sns.barplot`, `boxplot`, `histplot`, `kdeplot` 시각화
+- `.corr()` + `sns.heatmap()` 상관분석
+
 ## Week 2날짜 별 정리
 - [week2 요약](week2/week2_summary.md) - 2주차 요약
 
