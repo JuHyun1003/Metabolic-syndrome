@@ -55,7 +55,7 @@ Pandas 입문을 시작하고, 데이터 전처리를 익힌 주차.
 ## 사용한 주요 문법 & 함수
 
 ## Week 2날짜 별 정리
-- [week3 요약](week3/week3_summary) - 3주차 요약
+- [week3 요약](week3/week3_summary.md) - 3주차 요약
 
 
 
