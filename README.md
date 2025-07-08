@@ -46,6 +46,17 @@ Pandas 입문을 시작하고, 데이터 전처리를 익힌 주차.
 - [week2 요약](week2/week2_summary.md) - 2주차 요약
 - [EDA report](week2/day7/20250707day14.md)
 
+# 📅 Week 3
+---
+## Week 3 전체 요약
+
+## 사용한 주요 문법 & 함수
+
+## Week 2날짜 별 정리
+- [week3 요약](week3/week3_summary) - 3주차 요약
+
+
+
 ## 📚 Dependencies
 - Python 3.10+
 - pandas, numpy
