@@ -51,8 +51,27 @@ Pandas 입문을 시작하고, 데이터 전처리를 익힌 주차.
 # 📅 Week 3
 
 ## Week 3 전체 요약
+주제: 회귀모델을 통한 변수의 영향력 분석, 모델 성능 비교 및 평가
+
+목표: 실제 데이터 기반으로 다중 선형회귀 분석 수행 → 모델 단순화 및 해석 가능성 확보
 
 ## 사용한 주요 문법 & 함수
+```python
+# 회귀 모델
+from sklearn.linear_model import LinearRegression
+import statsmodels.api as sm
+
+# 지표 평가
+from sklearn.metrics import mean_squared_error, r2_score
+
+# 데이터 전처리
+from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import train_test_split
+
+# 시각화
+import matplotlib.pyplot as plt
+import seaborn as sns
+```
 
 ## Week 3날짜 별 정리
 - [week3 요약](week3/week3_summary.md) - 3주차 요약
