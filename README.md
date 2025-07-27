@@ -77,6 +77,17 @@ import seaborn as sns
 - [week3 요약](week3/week3_summary.md) - 3주차 요약
 - [모델학습 레포트](week3/day7/20250725day21.ipynb)
 
+---
+# 📅 Week 4
+
+## Week 4 전체 요약
+
+## 사용한 주요 문법 & 함수
+
+
+## Week 4날짜 별 정리
+- [week4 요약](week4/week4_summary.md) - 4주차 요약
+
 
 ## 📚 Dependencies
 - Python 3.10+
