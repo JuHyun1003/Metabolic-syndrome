@@ -74,7 +74,7 @@ import seaborn as sns
 ```
 
 ## Week 3날짜 별 정리
-- [week3 요약](week3/week3_summary.md) - 3주차 요약
+- < [week3 요약](week3/week3_summary.md) - 3주차 요약
 - [모델학습 레포트](week3/day7/20250725day21.ipynb)
 
 ---
