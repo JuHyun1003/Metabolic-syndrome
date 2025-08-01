@@ -49,5 +49,5 @@
 
 ### 📂 관련 파일
 - [20250731day27.py](day6/20250731day27.py) - Day 27 코드 파일
-- [27일차 jupyter notebook정리](day4/20250731day27.ipynb)
+- [27일차 jupyter notebook정리](day6/20250731day27.ipynb)
 ---
