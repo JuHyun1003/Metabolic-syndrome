@@ -98,7 +98,7 @@ import seaborn as sns
 
 ## Week 4날짜 별 정리
 - [week4 요약](week4/week4_summary.md) - 4주차 요약
-- [로지스틱 회귀모델 최종 보고서](week4/day7/20250801day28.ipynb)
+- [로지스틱 회귀모델 최종 보고서](week5/day1/20250801day28.ipynb)
 
 ## 📚 Dependencies
 - Python 3.10+
