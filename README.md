@@ -82,26 +82,47 @@ import seaborn as sns
 # 📅 Week 4
 
 ## Week 4 전체 요약
-주제 : 분류 모델 학습(로지스틱 회귀 모델 중심) 
+| 구분       | 내용                                                                   |
+| -------- | -------------------------------------------------------------------- |
+| 🎯 목표    | 로지스틱 회귀로 분류 문제 접근 + 성능 평가 지표의 본질 이해                                  |
+| 🧪 실습    | `LogisticRegression` 사용해서 이진 분류 문제 풀고 평가함                            |
+| 📈 평가 지표 | 정확도(accuracy), 정밀도(precision), 재현율(recall), F1-score, ROC Curve, AUC |
 
-과정 : 전처리, 모델링, 평가, 시각화, 튜닝 등 전과정 학습
+
 
 ## 사용한 주요 문법 & 함수
-| 범주  | 함수 / 클래스                                                     | 설명            |
-| --- | ------------------------------------------------------------ | ------------- |
-| 전처리 | `map()`, `get_dummies()`, `StandardScaler`                   | 범주형 수치화, 스케일링 |
-| 시각화 | `sns.countplot()`, `matplotlib`             | 비율 및 카운트 시각화  |
-| 모델  | `LogisticRegression`                     | 모델 생성 및 학습    |
-| 평가  | `confusion_matrix`, `classification_report`, `roc_auc_score`,`Kfold` | 성능 평가 , 교차검증        |
-| 튜닝  | `precision_recall_curve`, `roc_curve`                        | threshold 튜닝용 |
+- `LogisticRegression`
+- `confusion_matrix` 
+- `precision, recall` 
+- `F1-score` 
+- `ROC Curve`, `AUC`
+- `threshold`
 
 
 ## Week 4날짜 별 정리
 - [week4 요약](week4/week4_summary.md) - 4주차 요약
 - [로지스틱 회귀모델 최종 보고서](week5/day1/20250801day28.ipynb)
 
+---
+# 📅 Week 5
+
+## Week 5 전체 요약
+| 구분       | 내용                                                                |
+| -------- | ----------------------------------------------------------------- |
+| 🎯 목표    | 여러 모델을 비교하고, 각 모델이 얼마나 잘 예측하는지 성능 평가 + 해석 가능성 분석                  |
+| 🧪 실습    | 로지스틱 회귀, 결정트리, 랜덤포레스트 등 다양한 모델 적용 + 성능 비교                         |
+| 📈 평가 지표 | 정확도, 정밀도, 재현율, F1, AUC, ROC, confusion matrix, feature importance |
+| 🧼 실전 팁  | 어떤 상황에서 어떤 모델을 쓰는 게 나은지, 해석이 가능한지, 데이터 크기/복잡도에 따라 달라지는 성능 고려      |
+
+## 사용한 주요 문법 & 함수
+
+## Week 5 날짜 별 정리
+- [week5 요약](week5/week5_summary.md)
+
 ## 📚 Dependencies
 - Python 3.10+
 - pandas, numpy
 - networkx
 - matplotlib, seaborn
+
+- 학습 방법 : ChatGPT
