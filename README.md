@@ -115,9 +115,29 @@ import seaborn as sns
 | 🧼 실전 팁  | 어떤 상황에서 어떤 모델을 쓰는 게 나은지, 해석이 가능한지, 데이터 크기/복잡도에 따라 달라지는 성능 고려      |
 
 ## 사용한 주요 문법 & 함수
+- `DecisionTreeClassifier`
+- `RandomForestClassifier`
+- `XGBClassifier`
 
 ## Week 5 날짜 별 정리
 - [week5 요약](week5/week5_summary.md)
+- [분류모델 비교 레포트](week5/day7/20250817day35.md)
+
+---
+# 📅 Week 6(8/15 - 8/27)
+- KHUDA 프로젝트 진행(경희대 최적 사업 아이템 제시)
+
+## Week 6 전체 요약
+- 데이터 수집, 전처리, 모델링 등 방학 기간동안 학습한 내용을 실제로 적용하는 프로젝트
+
+## 사용한 주요 문법 & 함수
+- `KMeans`
+- `PCA`
+- `RandomForestClassifier` 등
+
+## Week6 정리
+- `KHUDA` Repository의 `토이 프로젝트` 참고
+
 
 ## 📚 Dependencies
 - Python 3.10+
