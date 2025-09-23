@@ -1,7 +1,7 @@
-# Comorbidity Network Analysis Project
+# 생활 습관에 따른 Metabolic Syndrom 예측모델 제작 프로젝트
 
 **기간**: 2025년 6월 23일 ~ 2025년 9월 30일  
-**목표**: 환자-질병 진단 정보를 기반으로 코모르비디티 네트워크를 구축하고, 생물학적 지식 기반 해석까지 연결하는 포트폴리오 프로젝트.
+**목표**: 사람들의 생활 습관 (흡연, 음주, 운동 등)에 따른 대사 증후군 발현 정도를 예측하는 모델 제작 및 인사이트 도출
 
 # 📅 Week 1
 
@@ -142,7 +142,7 @@ import seaborn as sns
 ## 📚 Dependencies
 - Python 3.10+
 - pandas, numpy
-- networkx
+- scikit learn
 - matplotlib, seaborn
 
 - 학습 방법 : ChatGPT
