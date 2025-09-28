@@ -138,6 +138,20 @@ import seaborn as sns
 ## Week6 정리
 - `KHUDA` Repository의 `토이 프로젝트` 참고
 
+---
+# 📅 Week 7(9/15 - 9/26)
+- 방학 최종 프로젝트 진행 (일상 생활 습관으로 Metabolic syndrome 위험도 예측 모델 제작)
+## 사용한 데이터 셋
+[원본 데이터](week7/sas1.xlsx)
+
+## 코드 파일
+- [전처리](week7/codefile/data_preprocess.py)
+- [EDa](week7/codefile/EDA.py)
+- [모델링](week7/codefile/modelling.py)
+
+## 최종 보고서
+- [최종 보고서](week7/report/report.md)
+---
 
 ## 📚 Dependencies
 - Python 3.10+
